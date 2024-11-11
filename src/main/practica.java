@@ -8,7 +8,13 @@ public class practica {
 		int[] subArray = {785675, 56, 5675, 56544, 234};
 		int[] prodArray = {6, 8, 20, 23, 12};
 		
+		
 		// User 1 fer la suma dels elements de sumArray
+		int suma = 0;
+	    for (int i = 0; i < sumArray.length; i++){
+	    	suma = suma + sumArray[i];
+	    }
+	    System.out.println("El resultado de la suma de los elementos del array sumArray es: " +suma);
 		
 		
 		
