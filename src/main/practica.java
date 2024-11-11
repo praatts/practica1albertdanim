@@ -21,7 +21,7 @@ public class practica {
 			
 		}
 		
-		System.out.println(resta);
+		System.out.println("El resultado de la resta de los elementos de el array 'subArray' es" + resta);
 		
 		// User 3 fer la multiplicació dels elements de prodArray
 	}
